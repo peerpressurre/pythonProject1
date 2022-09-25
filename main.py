@@ -1,0 +1,5 @@
+meters = int(input('meters->'))
+print(int(meters*100))
+print(int(meters*10))
+print(int(meters*1000))
+print(float(meters*0.00062137))
