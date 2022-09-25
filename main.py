@@ -1,5 +1,3 @@
-#ex3
-a = int(input('a->'))
-b = int(input('b->'))
-print(a*b/2)
+#ex4
+print("To be\n or not\n to be")
 
