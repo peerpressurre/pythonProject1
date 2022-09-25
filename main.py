@@ -1,5 +1,5 @@
-#ex2
-d = int(input('d->'))
-f = int(input('f->'))
-v = int(input('v->'))
-print(d-f-v
+#ex3
+a = int(input('a->'))
+b = int(input('b->'))
+print(a*b/2)
+
